@@ -1,43 +1,4 @@
-
-<p align="center">
-    <img src="https://d33wubrfki0l68.cloudfront.net/bda892015ae427fcde86e3f60db1d9f6237fecb7/a99b4/images/app/shopify-demo-app.png" width="90%" alt="DSKit"/>
-</p>
-
 # Shopify
-
-This project is powered by [DSKit](https://github.com/imodeveloperlab/dskit) a Design System Kit for iOS 13+, an iOS SDK written in Swift with a collection of reusable components, guided by clear standards, that can be assembled to build any number of applications.
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Swift-5.5-brightgreen.svg" />
-    <a href="https://swift.org/package-manager">
-        <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
-    </a>
-    <img src="https://img.shields.io/badge/iOS-13+-brightgreen.svg?style=flat" alt="iOS"/>
-    <img src="https://circleci.com/gh/imodeveloperlab/dskit/tree/main.svg?style=shield" alt="iOS"/>
-    <img src="https://img.shields.io/github/issues/imodeveloperlab/dskit"/>
- 
-</p>
-
-<p align="center">
-   <a href="https://www.youtube.com/watch?v=QP4jnrtmyTI"> <img src="https://dskit.app/images/envato/demo-video-shopify.jpg" width="95%" alt="DSKit"/></a>
-</p>
-
-
-
-## Configuration
-Just add your api key and domain and app is ready to use
-
-* API KEY is used to receive your store's data like items and collections. To receive the key, you have to visit the admin panel and proceed to Apps - Manage Private Apps. Create a new application if you don't have one by copying Storefront API and adding it to your library's configuration.
-
-* SHOP DOMAIN is the main domain of your store. You can find it your store's domain by visiting the admin panel on a Home tab. There you can find the following message - Your current domain is xxx.myshopify.com
-
-How to generate a shop api key https://shopify.dev/tutorials/generate-api-credentials
-
-<p align="center">
-    <img src="https://d33wubrfki0l68.cloudfront.net/896e4634d194d34ebb9807ca5228c6f371166bcc/7ee0f/images/app/shopify_config.png" alt="DSKit"/>
-</p>
-
-## Screens
 
 <table>
   <tr>
